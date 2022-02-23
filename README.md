@@ -5,11 +5,11 @@
 ##IMPROVING SCHOOL INFRASTRUCTURE IN THE UNITED STATES.
 
 ## CONTRIBUTORS
-Peter Otieno
-Yves Havugimana
-Matilda Kadzo
-Damaris Muli
-Mary Mbugua
+Peter Otieno,
+Yves Havugimana,
+Matilda Kadzo,
+Damaris Muli,
+Mary Mbugua.
 
 
 ## Description
