@@ -1,8 +1,8 @@
 ## GROUP6-FINAL-PROJECT
- ## Group 6 Final project on the Data Science Prep Course.
+## Group 6 Final project on the Data Science Prep Course.
  
 
-##IMPROVING SCHOOL INFRASTRUCTURE IN THE UNITED STATES.
+##STUDENT ENROLLMENT DATA IN COMPARISON TO SCHOOL INFRASTRUCTURE IN THE USA
 
 ## CONTRIBUTORS
 Peter Otieno
