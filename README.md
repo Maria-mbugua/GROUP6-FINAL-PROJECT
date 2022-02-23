@@ -1,20 +1,35 @@
-# GROUP6-FINAL-PROJECT
- Group 6 Final project on the Data Science Prep Course.
+## GROUP6-FINAL-PROJECT
+ ## Group 6 Final project on the Data Science Prep Course.
  
 
-IMPROVING SCHOOL INFRASTRUCTURE IN THE UNITED STATES.
+##IMPROVING SCHOOL INFRASTRUCTURE IN THE UNITED STATES.
 
-OVERVIEW
-
-The US system of education consists of Primary and Secondary School which constitute a total of 12 years. These are referred to as grade one to grade twelve. Students begin primary school, commonly referred to as elementary school, from around the age of 6. Secondary school entails Junior/ Middle School and High school. After graduation from high school, students move on to college or University.
-
-According to the National Center for Education Statistics (NCES), there are 98,755 public schools, 13,477 middle schools, 2,500 Junior high schools, and 23900Secondary Schools in the US.  
-As a way to improve education in the US, we look at the number of teachers in schools that are currently registered in various cities in the US. 
-
-School infrastructure aids in the quality of education in an institution, they may entail teachers,  classrooms, laboratories, open fields for games and physical education, and sanitation facilities. This project analyses  the two data sets that we have : one containing the population by city and another containing the list of schools and the cities they are in, and another consisting of the number of teachers per state. Our data seeks to identify specific cities and states that require more teachers within their schools to ensure provision of quality education in the cities, states and country in general.
-
-FRAMEWORKS/LIBRARIES USED
-
-NumPy and Pandas are the major libraries used on the Jupyter Notebook.
+## CONTRIBUTORS
+Peter Otieno
+Yves Havugimana
+Matilda Kadzo
+Damaris Muli
+Mary Mbugua
 
 
+## Description
+
+According to the World Bank, the US Population increases steadily at a rate of 0.4% annually across the 50 states. This implies that despite the number of people within an area increasing, the facilities i.e schools, remain the same in size and infrastructure, and this will eventually lead to a strain on the facilities.
+On this project, we seek to identify the number and names of cities and schools that are overwhelmed when it comes to school infrastructure due to the increased population in the area. Throughout this project, we should be able to develop a priority list for the upscaling and upgrading of infrastructure in the cities and states at large.
+
+
+## Setup/Installation Requirements
+
+A Google Jupyter notebook collab  which is on the Google application is required for running the Python commands.
+On the Jupyter notebook use the commands below so that you can be able to get the output of  python commands.
+# import pandas as pd
+# import numpy as np
+
+## Technologies used
+
+Python programming language was used in loading the datasets in the Jupyter notebook. 
+On the loading the datasets the following command is used.
+# public_schools = pd.read_csv('Public_Schools.csv', index_col = 2)
+public_schools.head()
+
+In  data cleaning Python was used 
