@@ -4,10 +4,10 @@
 ## STUDENT ENROLLMENT DATA IN COMPARISON TO SCHOOL INFRASTRUCTURE IN THE USA.
 
 ## CONTRIBUTORS
-Peter Otieno
-Yves Havugimana
-Matilda Kadzo
-Damaris Muli
+Peter Otieno,
+Yves Havugimana,
+Matilda Kadzo,
+Damaris Muli,
 Mary Mbugua
 
 
