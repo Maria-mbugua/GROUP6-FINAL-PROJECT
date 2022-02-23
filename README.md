@@ -22,14 +22,15 @@ On this project, we seek to identify the number and names of cities and schools 
 
 A Google Jupyter notebook collab  which is on the Google application is required for running the Python commands.
 On the Jupyter notebook use the commands below so that you can be able to get the output of  python commands.
-# import pandas as pd
-# import numpy as np
+import pandas as pd
+import numpy as np
 
 ## Technologies used
 
-Python programming language was used in loading the datasets in the Jupyter notebook. 
-On the loading the datasets the following command is used.
-# public_schools = pd.read_csv('Public_Schools.csv', index_col = 2)
-public_schools.head()
+Python programming language was used in loading the datasets in the Jupyter notebook. It was also used in the process of understanding the data from the datasets.
+It's also used in the process of data cleanning and data analysis of the datasets. This was all to attain our  objectives.
 
-In  data cleaning Python was used 
+## 
+
+
+ 
