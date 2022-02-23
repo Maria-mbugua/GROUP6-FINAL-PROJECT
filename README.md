@@ -30,7 +30,7 @@ import numpy as np
 Python programming language was used in loading the datasets in the Jupyter notebook. It was also used in the process of understanding the data from the datasets.
 It's also used in the process of data cleanning and data analysis of the datasets. This was all to attain our  objectives.
 
-## LICEMSE
+## LICENSE
  GNU GENERAL PUBLIC LICENSE
  Version 3, 29 June 2007
 
